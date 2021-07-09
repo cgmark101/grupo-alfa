@@ -9,7 +9,6 @@ app = Flask(__name__)
 @app.route("/")
 def index():
     img = db.all()
-    print(len(img))
     data = []
     for i in img:
         if len(i) != 0:
@@ -18,7 +17,6 @@ def index():
                 'nombre':i['nombre'],
                 'cargo':i['cargo'],
             })
-            print(i)
     return render_template('index.html', data=data) 
 
 @app.route("/404.html")
