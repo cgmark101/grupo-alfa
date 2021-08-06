@@ -98,7 +98,7 @@ async def edit_data(busqueda:str, cargo:str, image:UploadFile = File(...), nombr
 
 @app.delete('/image')
 async def delete_data(nombre:str):
-    key = db.get(Query().nombre == nombre)
+    key = db.get(Query().nombre == nombre.lower())
     if key == None:
         return 'trabajador no existe'
     else:

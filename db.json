@@ -10,11 +10,6 @@
             "nombre": "andres mu\u00f1oz",
             "cargo": "jefe de obra"
         },
-        "3": {
-            "url": "static/images/person/person_3.webp",
-            "nombre": "manuel flores",
-            "cargo": "director de comercial"
-        },
         "4": {
             "url": "static/images/person/person_4.webp",
             "nombre": "pablo pacheco",
@@ -83,7 +78,8 @@
         "17": {
             "url": "static/images/person/person_17.webp",
             "nombre": "carlos valdez",
-            "cargo": "jefe general de mantención de obra"
-        }
+            "cargo": "jefe general de mantenci\u00f3n de obra"
+        },
+        "3": {}
     }
 }
