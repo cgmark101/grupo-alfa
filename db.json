@@ -48,27 +48,7 @@
         "11": {
             "url": "static/images/person/person_11.webp",
             "nombre": "alvaro viveros machucas",
-            "cargo": "capataz de moldaje"
-        },
-        "12": {
-            "url": "static/images/person/person_12.webp",
-            "nombre": "jose moya",
-            "cargo": "capataz de moldaje"
-        },
-        "13": {
-            "url": "static/images/person/person_13.webp",
-            "nombre": "sergio garay",
-            "cargo": "capataz de hormigon"
-        },
-        "14": {
-            "url": "static/images/person/person_14.webp",
-            "nombre": "patricio peredo ",
-            "cargo": "capataz de infierradura"
-        },
-        "15": {
-            "url": "static/images/person/person_15.webp",
-            "nombre": "guido henriquez",
-            "cargo": "jefe de obras"
+            "cargo": "supervisor"
         },
         "16": {
             "url": "static/images/person/person_16.webp",
@@ -80,6 +60,30 @@
             "nombre": "carlos valdez",
             "cargo": "jefe general de mantenci\u00f3n de obra"
         },
-        "3": {}
+        "3": {},
+        "15": {},
+        "14": {},
+        "12": {},
+        "13": {},
+        "18": {
+            "url": "static/images/person/person_18.webp",
+            "nombre": "tiare pi\u00f1a",
+            "cargo": "trazadora"
+        },
+        "19": {
+            "url": "static/images/person/person_19.webp",
+            "nombre": "daniela carrazco",
+            "cargo": "capataz de terminaciones"
+        },
+        "20": {
+            "url": "static/images/person/person_20.webp",
+            "nombre": "max riquelme",
+            "cargo": "capataz"
+        },
+        "21": {
+            "url": "static/images/person/person_21.webp",
+            "nombre": "luciano saez",
+            "cargo": "trazador"
+        }
     }
 }
