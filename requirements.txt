@@ -1,6 +1,6 @@
-fastapi
-Flask
-Frozen-Flask
-python-multipart
-tinydb
-uvicorn
+fastapi==0.115.6
+Flask==3.1.0
+Frozen-Flask==1.0.2
+python-multipart==0.0.20
+tinydb==4.8.2
+uvicorn==0.34.0
